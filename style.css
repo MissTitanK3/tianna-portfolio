@@ -1,0 +1,33 @@
+body {
+  background: #7c428c;
+  color: white;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://storage.needpix.com/rsynced_images/web-1012469_1280.jpg");
+  margin: 0px 1px 1px 1px;
+  padding: 100px;
+}
+.linkFont {
+  font-size: 45px;
+  color: tan;
+}
+.profileImg {
+  width: 55%;
+  border-radius: 50px;
+  border: 5px solid black;
+  box-shadow: 10px 10px 20px black;
+}
+
+h1 {
+  color: lavender;
+}
+h3 {
+  color: #90ee90;
+}
+h4 {
+  color: rgb(192, 120, 17);
+}
+h5 {
+  color: rgba(116, 117, 34, 46);
+}
